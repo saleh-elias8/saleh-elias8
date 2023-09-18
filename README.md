@@ -2,6 +2,7 @@
 ## Welcome to my Github profile!
 ------
 - 🌱 I’m currently learning Web Development and other programming languages
+- 🤔 I’m currently open for: A new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">LINK TO MY RESUME</a>.
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
