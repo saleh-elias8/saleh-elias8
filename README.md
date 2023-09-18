@@ -11,8 +11,6 @@
 - 💡 Previous Projects:- <a href="https://saleh-elias8.github.io/Portfolio/">My Portfolio</a>.<br>
 - ⚡ How to reach me:- <a href="https://www.linkedin.com/in/saleh-elias8/">LinkedIn</a>.<br>
 
-
-
 <!--
 **saleh-elias8/saleh-elias8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
