@@ -1,11 +1,14 @@
 # Hi there👋,  I'm Saleh Elias.
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
-<p align="right"><img align="Right"
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<p align="right">
+    <img align="Right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="saleh-elias8" 
     bg_color=#808080/></p>
 - 👨‍💻 I’m a Software Developer.<br>
-- 🌱 I’m currently learning Web Development and other programming languages.<br>
+- 🌱 I’m currently working on Web Development and other programming languages.<br>
 - 🤔 I’m currently looking for a new job opportunity.<br>
 - 💡 Previous Projects:- <a href="https://saleh-elias8.github.io/Portfolio/">My Portfolio</a>.<br>
 - ⚡ How to reach me:- <a href="https://www.linkedin.com/in/saleh-elias8/">LinkedIn</a>.<br>
@@ -16,7 +19,11 @@
 **saleh-elias8/saleh-elias8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
 ### Welcome to my Github profile!
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
+    <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
