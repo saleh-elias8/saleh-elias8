@@ -6,8 +6,10 @@
     bg_color=#808080/></p>
 - 👨‍💻 I’m a Software Developer.<br>
 - 🌱 I’m currently learning Web Development and other programming languages.<br>
-- 🤔 I’m currently looking for a new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">My Portfolio</a>.<br>
-- ⚡ How to reach me :- <a href="https://www.linkedin.com/in/saleh-elias8/">LinkedIn</a>.
+- 🤔 I’m currently looking for a new job opportunity.<br>
+- ⚡ How to reach me :- <a href="https://www.linkedin.com/in/saleh-elias8/">LinkedIn</a>.<br>
+- 💡 Projects:- <a href="https://saleh-elias8.github.io/Portfolio/">My Portfolio</a>.
+
 
 
 <!--
