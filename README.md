@@ -2,7 +2,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 <p align="right">
     <img align="Right"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=gotham&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=gotham&langs_count=6"
     alt="saleh-elias8" 
     bg_color=#808080/>
 </p>
