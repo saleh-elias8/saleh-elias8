@@ -7,8 +7,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="saleh-elias8" 
     bg_color=#808080/></p>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=saleh-elias8&label=Profile%20views&color=0e75b6&style=flat"
-    alt="saleh-elias8" /> </p>
+
 ------
 
 <!--
