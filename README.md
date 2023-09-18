@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋,  I'm Saleh Elias
 ## Welcome to my Github profile!
 - 🌱 I’m currently learning Web Development and other programming languages
 - 🤔 I’m currently open for: A new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">LINK TO MY RESUME</a>.
