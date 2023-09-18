@@ -2,6 +2,12 @@
 ## Welcome to my Github profile!
 - 🌱 I’m currently learning Web Development and other programming languages
 - 🤔 I’m currently open for: A new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">LINK TO MY RESUME</a>.
+
+------
+
+<!--
+**saleh-elias8/saleh-elias8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -10,9 +16,6 @@
 
 ------
 
-<!--
-**saleh-elias8/saleh-elias8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-------
 <h1 align="center">Hi 👋, I'm Saleh </h1>
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 ------
