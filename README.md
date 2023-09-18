@@ -1,7 +1,5 @@
-# Hi there👋,  I'm Saleh Elias.
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Hi+there+👋,+I'm+Saleh+Elias.;%3E+Welcome+to+my+GitHub+profile...!)
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <p align="right">
     <img align="Right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -18,7 +16,10 @@
 <!--
 **saleh-elias8/saleh-elias8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
+# Hi there👋,  I'm Saleh Elias.
 ### Welcome to my Github profile!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
