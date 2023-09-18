@@ -1,8 +1,17 @@
-# Hi there👋,  I'm Saleh Elias.
-## Welcome to my Github profile!
-- 🌱 I’m currently learning Web Development and other programming languages
+## Hi there👋,  I'm Saleh Elias.
+### Welcome to my Github profile!
+<p align="right"><img align="Right"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="saleh-elias8" 
+    bg_color=#808080/></p>
+- 👨‍💻 I’m a Software Developer.<br>
+- 🌱 I’m currently learning Web Development and other programming languages.<br>
 - 🤔 I’m currently open for: A new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">LINK TO MY PORTFOLIO</a>.
-------
+
+
+
+
+
 <!--
 **saleh-elias8/saleh-elias8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ------
@@ -46,7 +55,7 @@ Here are some ideas to get you started:
   
 [![Saleh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saleh-elias8&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Saleh's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Saleh's github stats](https://github-readme-stats.vercel.app/api?username=saleh-elias8&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleh-elias8&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saleh-elias8&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
@@ -55,5 +64,5 @@ Here are some ideas to get you started:
 
 <br>
 
-Credits: [Aditya Deshmukh](https://github.com/saleh-elias8)
+Credits: [Saleh Elias](https://github.com/saleh-elias8)
 -->
