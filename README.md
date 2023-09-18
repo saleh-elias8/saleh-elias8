@@ -4,11 +4,13 @@
     <img align="Right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=saleh-elias8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="saleh-elias8" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
+</p>
 - 👨‍💻 I’m a Software Developer.<br>
 - 🌱 I’m currently working on Web Development and other programming languages.<br>
+- 💡 I like to explore new technologies, develop software solutions and quick hacks.<br>
 - 🤔 I’m currently looking for a new job opportunity.<br>
-- 💡 Previous Projects:- <a href="https://saleh-elias8.github.io/Portfolio/">My Portfolio</a>.<br>
+- ✨ Previous Projects:- <a href="https://saleh-elias8.github.io/Portfolio/">My Portfolio</a>.<br>
 - ⚡ How to reach me:- <a href="https://www.linkedin.com/in/saleh-elias8/">LinkedIn</a>.<br>
 
 <!--
@@ -16,6 +18,8 @@
 ------
 # Hi there👋,  I'm Saleh Elias.
 ### Welcome to my Github profile!
+
+🎓  I'm currently studying Computer Science
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -30,7 +34,20 @@
     alt="saleh-elias8" 
     bg_color=#808080/></p>
 
-------
+
+--------------
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saleh-elias8&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saleh-elias8&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saleh-elias8&theme=gruvbox&hide_border=true" />
+
+</a>
+</p>
+
+------------
 
 <h1 align="center">Hi 👋, I'm Saleh </h1>
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
