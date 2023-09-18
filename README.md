@@ -6,10 +6,8 @@
     bg_color=#808080/></p>
 - 👨‍💻 I’m a Software Developer.<br>
 - 🌱 I’m currently learning Web Development and other programming languages.<br>
-- 🤔 I’m currently open for: A new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">LINK TO MY PORTFOLIO</a>.
-
-
-
+- 🤔 I’m currently open for:- A new job opportunity, <a href="https://saleh-elias8.github.io/Portfolio/">MY PORTFOLIO</a>.<br>
+- ⚡ How to reach me :- <a href="https://www.linkedin.com/in/saleh-elias8/">LinkedIn</a>.
 
 
 <!--
@@ -30,6 +28,9 @@
 I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 Here are some ideas to get you started:
+## 💡 Projects
+- [name](https:)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Web Development and other programming languages
